@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrVicki/frontend.git"
+  },
+  "author": "Vicki Bealman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrVicki/frontend/issues"
+  },
+  "homepage": "https://github.com/DrVicki/frontend#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^2.6.12"
+  }
+}
